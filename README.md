@@ -1,8 +1,8 @@
-# connect_four_game
+# connect4
 
 ## Objective
 
-To be the first player to connect 4 of the same colored discs in a row (either vertically, horizontally, or diagonally)
+To be the first player to connect 4 of the same colored discs in a row (either vertically, horizontally)
 
 ## How to play
 
@@ -34,5 +34,3 @@ The game ends when there is a 4-in-a-row or a stalemate.
 - I am stiff with css, even though I manage to find a way to make it work somehow, a lot of the times I don't even understand how or why it did work.
 - I suck at jQuery and nested loops...
 
-
-# Connect4
