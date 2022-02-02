@@ -2,7 +2,7 @@
 
 ## Objective
 
-To be the first player to connect 4 of the same colored discs in a row (either vertically, horizontally)
+To be the first player to connect 4 of the same colored discs in a row (either vertically, horizontally or diagonally)
 
 ## How to play
 
